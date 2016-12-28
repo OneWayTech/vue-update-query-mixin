@@ -1,9 +1,9 @@
-import updateQuery from 'update-query'
+var updateQuery = require('update-query');
 
-export default {
+module.exports = {
   methods: {
-    updateQuery (obj) {
-      this.$router.go(updateQuery(this.$route.path, obj))
+    updateQuery: function (obj) {
+      this.$router.go(updateQuery(this.$route.path, obj));
     }
   }
-}
+};

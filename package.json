@@ -2,7 +2,7 @@
   "name": "vue-update-query-mixin",
   "description": "Provided this.updateQuery(Object) mixin for updating query string, only for Vue 1.x",
   "author": "Ken Berkeley <kenberkeley@foxmail.com>",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/kenberkeley/vue-update-query-mixin.git"
