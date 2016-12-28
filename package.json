@@ -1,0 +1,16 @@
+{
+  "name": "vue-update-query-mixin",
+  "description": "Provided this.updateQuery(Object) mixin for updating query string, only for Vue 1.x",
+  "author": "Ken Berkeley <kenberkeley@foxmail.com>",
+  "version": "1.0.1",
+  "dependencies": {
+    "update-query": "^1.0.3"
+  },
+  "keywords": [
+    "vue",
+    "mixin",
+    "update",
+    "query"
+  ],
+  "license": "MIT"
+}
