@@ -26,13 +26,13 @@ export default {
 }
 ```
 
-From now on, you can invoke `this.updateQuery` within the component
+From now on, `this.updateQuery` is available within the component
 
 ### Example
 
 Current url: `http://demo.com/#!/test?a=1&b=2`  
-After Running: `this.updateQuery({ a: 2, b: 3 })`  
-Then changed to: `http://demo.com/#!/test?a=2&b=3`
+After Running: `this.updateQuery({ a: 2, b: 3 })`  
+url changed to: `http://demo.com/#!/test?a=2&b=3`
 
 > This mixin is based on [`update-query`](https://github.com/kenberkeley/update-query)
 
