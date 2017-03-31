@@ -6,9 +6,9 @@
 > Intellectual property of [Oneway.mobi](http://www.oneway.mobi/)  
 
 
-### Requirement
-* Vue 1.x
-* Vue Router 0.7.x
+### Requirements
+* Vue 1.x | 2.x
+* Vue Router 0.7.x | 2.x
 
 ### Installation
 
